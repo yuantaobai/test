@@ -264,12 +264,12 @@ const ML_API_ENDPOINT = 'https://fz8ls39crb.execute-api.us-east-1.amazonaws.com/
       <br></br>
       <br></br>
 
-      1. Input is expected to be a small size file named content.png in advance
+      1. feel free to upload you painting in grayscale with format .jpeg
       <br></br>
       <br></br>
 
       <pr></pr>
-      2. Output is a style transfomed image file with size 224*224 pixels 
+      2. submit your painting and we will colorize it for you! output with 256*256 pixels 
       {/* </strong></p> */}
       </h6>
       <div class="float-container">
@@ -370,7 +370,7 @@ const ML_API_ENDPOINT = 'https://fz8ls39crb.execute-api.us-east-1.amazonaws.com/
     <div className="App"  style={myStyle}>
       <br></br>
       <div className='app'>
-      <h1>Fast style transfer</h1>
+      <h1>Image colorization by YuantaoBai</h1>
 
 
 
