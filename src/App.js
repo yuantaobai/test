@@ -256,9 +256,9 @@ const ML_API_ENDPOINT = 'https://fz8ls39crb.execute-api.us-east-1.amazonaws.com/
   const Home = () => (
     <div className='home'>
       <div className="Image">
-      <img src="https://picmatix.com/static/index/img/leopard.jpg" height = "300" />
-      <img src="https://picmatix.com/static/index/img/catrina-street-art-512.jpg" height = "300" />
-      <img src="https://picmatix.com/static/index/img/leopard-street-art.jpg" height = "300" />
+      <img src="https://github.com/yuantaobai/test/blob/main/src/gt.jpeg" height = "300" />
+      <img src="https://github.com/yuantaobai/test/blob/main/src/gray.jpeg" height = "300" />
+      <img src="https://github.com/yuantaobai/test/blob/main/src/result.jpeg" height = "300" />
       <h6>
       {/* <p ><strong> */}
       <br></br>
@@ -282,7 +282,7 @@ const ML_API_ENDPOINT = 'https://fz8ls39crb.execute-api.us-east-1.amazonaws.com/
           <label for="file-upload" class="button-6">
          <i class="fa fa-cloud-upload"></i>  Upload Image
           </label>
-        <input id="file-upload" type="file" accept=".png"   onChange={handleChange}/>
+        <input id="file-upload" type="file" accept=".jpeg"   onChange={handleChange}/>
         <div>
         <button type="Submit" class="button-6"  disabled={buttonDisable}>{buttonText}</button>
         </div>
