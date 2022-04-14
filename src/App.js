@@ -256,9 +256,9 @@ const ML_API_ENDPOINT = 'https://fz8ls39crb.execute-api.us-east-1.amazonaws.com/
   const Home = () => (
     <div className='home'>
       <div className="Image">
-      <img src="https://github.com/yuantaobai/test/blob/main/src/gt.jpeg" height = "300" />
-      <img src="https://github.com/yuantaobai/test/blob/main/src/gray.jpeg" height = "300" />
-      <img src="https://github.com/yuantaobai/test/blob/main/src/result.jpeg" height = "300" />
+      <img src="https://pic1.zhimg.com/80/v2-8ddeb87281f9d0c6520ef6886f73d044_1440w.jpg" height = "300" />
+      <img src="https://pic1.zhimg.com/80/v2-a815c3c265455213bed453aa2fef1654_1440w.jpg" height = "300" />
+      <img src="https://pic3.zhimg.com/v2-4fcd2bcc5e4baf3f2ac46e40b730449e_r.jpg" height = "300" />
       <h6>
       {/* <p ><strong> */}
       <br></br>
