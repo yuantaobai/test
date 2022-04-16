@@ -133,7 +133,7 @@ function App() {
 //--------------------------------- Demo part -----------------------------------//
 const DROPDOWN_API_ENDPOINT = 'https://tz5cv9f9pb.execute-api.us-east-1.amazonaws.com/prod'; // TODO
 // const ML_API_ENDPOINT = 'https://9xmmdlqzi4.execute-api.us-east-1.amazonaws.com/prod'; // TODO
-const ML_API_ENDPOINT = 'https://fz8ls39crb.execute-api.us-east-1.amazonaws.com/prod/'; // TODO
+const ML_API_ENDPOINT = 'https://k28954ufod.execute-api.us-east-1.amazonaws.com/prod'; // TODO
 
 // const decodeFileBase64_demo = (base64String) => {
 //   // From Bytestream to Percent-encoding to Original string
